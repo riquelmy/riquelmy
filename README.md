@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riquelmyor@gmail.com)
 
 
-<h3>About Me</h3>
+<h3> 👨‍💻 About Me</h3>
 <ul>
   <li>I'm a guy fascinated with technology and always looking to learn new things.</li>
   <li>🎓 Systems Analysis & Development Student at IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia), Brazil.</li> 
