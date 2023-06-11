@@ -10,7 +10,7 @@
   <li>🎓 Systems Analysis & Development Student at IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia), Brazil.</li> 
 </ul>
 
-![Riquelmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=riquelmy&show_icons=true&theme=tokyonight)
+
 
 ## 🖥️🔧 Tecnologies and Tools that I use
 
@@ -20,4 +20,23 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/>
+
+## GitHub stats
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+  
+![Riquelmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=riquelmy&show_icons=true&theme=tokyonight)
+  
+  <br/>
+</details>
+
+<details>
+  <summary>Views on my profile 👁️</summary>
+  <br/>
+   
+  ![](https://komarev.com/ghpvc/?username=riquelmy&color=blueviolet)
+  
+  <br/>
+</details>
 
