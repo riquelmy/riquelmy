@@ -5,8 +5,9 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://stillworkinginthelinks)
 
 <h3>About Me</h3>
-- I'm a guy fascinated with technology and always looking to learn new things.
-- Systems Analysis & Development Student at IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia), Brazil.
+- &nbsp; I'm a guy fascinated with technology and always looking to learn new things.
+- &nbsp; Systems Analysis & Development Student at IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia), Brazil.
+- 
 ![Riquelmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=riquelmy&show_icons=true&theme=tokyonight)
 
 ## 🖥️🔧 Tecnologies and Tools that I use
