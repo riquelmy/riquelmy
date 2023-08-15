@@ -6,7 +6,7 @@
 <h3> 👨‍💻 About Me</h3>
 <ul>
   <li>I'm a guy fascinated with technology and always looking to learn new things.</li>
-  <li>🎓 Systems Analysis & Development Student at IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia), Brazil.</li> 
+  <li>🎓 Computer Science Student at Centro Universitário Jorge Amado, Bahia, Brazil</li> 
 </ul>
 
 
