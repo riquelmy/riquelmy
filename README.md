@@ -16,10 +16,10 @@
   ![GIT](https://img.shields.io/badge/-GIT-000?&style=for-the-badge&logo=git&logoColor=3C5BFF&color:FFF)
   ![GITHUB](https://img.shields.io/badge/-GITHUB-000?&style=for-the-badge&logo=github&logoColor=3C5BFF&color:FFF)
   ![CSS](https://img.shields.io/badge/-CSS-000?&style=for-the-badge&logo=css3&logoColor=3C5BFF&color:FFF)
-  ![HTML](https://img.shields.io/badge/-HTML-000?&style=for-the-badge&logo=html5&logoColor=3C5BFF&color:FFF)
+  ![HTML](https://img.shields.io/badge/-HTML-000?&style=for-the-badge&logo=html5&logoColor=3C5BFF&color:FFF)<br>
   ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-000?&style=for-the-badge&logo=javascript&logoColor=3C5BFF&color:FFF)
-  ![PYTHON](https://img.shields.io/badge/-python-000?&style=for-the-badge&logo=python&logoColor=3C5BFF&color:FFF)<br>
-  ![ANGULAR](https://img.shields.io/badge/-angular-000?&style=for-the-badge&logo=angular&logoColor=3C5BFF&color:FFF)
+  ![PYTHON](https://img.shields.io/badge/-python-000?&style=for-the-badge&logo=python&logoColor=3C5BFF&color:FFF)
+  ![ANGULAR](https://img.shields.io/badge/-angular-000?&style=for-the-badge&logo=angular&logoColor=3C5BFF&color:FFF)<br>
   ![JAVA](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk&logoColor=3C5BFF&color:FFF)
 
 </div>
