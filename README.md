@@ -5,10 +5,10 @@
 </h1>
 
 <ul>
-  <li>👨‍💻 I'm a guy fascinated with technology and always looking to learn new things;</li>
-  <li>🎓 Computer Science Student at Centro Universitário Jorge Amado, Bahia, Brazil;</li> 
-  <li>📝 Currently taking the Santander Full Stack Bootcamp Angular+Java;</li>
-  <li>🎨 I'm passionate about literature and arts as a whole, some of my hobbies involve games, reading, writing, and coding. </li>
+  <li>👨‍💻 I'm a guy fascinated with technology and always looking to learn new things</li>
+  <li>🎓 Computer Science Student at Centro Universitário Jorge Amado, Bahia, Brazil</li> 
+  <li>📝 Currently taking the Santander Full Stack Bootcamp Angular+Java</li>
+  <li>🎨 I'm passionate about literature and arts as a whole, some of my hobbies involve games, reading, writing, and coding </li>
 </ul>
 
 <h3>🖥️🔧 Tecnologies and Tools that I use</h3> 
@@ -22,8 +22,8 @@
   ![ANGULAR](https://img.shields.io/badge/-angular-000?&style=for-the-badge&logo=angular&logoColor=3C5BFF&color:FFF)<br>
   ![JAVA](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk&logoColor=3C5BFF&color:FFF)
 
-</div>
 <h3 align="left">🌎 Find me around the web</h3>
+
 <div>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=3C5BFF&color:FFF)](mailto:riquelmyor@gmail.com)
