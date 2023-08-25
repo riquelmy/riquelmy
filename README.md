@@ -33,7 +33,7 @@
 
 
 
-<h3 align="left">GitHub Additional Info</h3>
+<h3 align="left">📈 GitHub Additional Info</h3>
 
 <details>
   <summary>GitHub Profile Stats 💻</summary>
