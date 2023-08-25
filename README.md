@@ -11,7 +11,7 @@
   <li>🎨 I'm passionate about literature and arts as a whole, some of my hobbies involve games, reading, writing, and coding </li>
 </ul>
 
-<h3>🖥️🔧 Tecnologies and Tools that I use</h3> 
+<h3>🖥️🔧 Technologies and Tools that I use</h3> 
  
   ![GIT](https://img.shields.io/badge/-GIT-000?&style=for-the-badge&logo=git&logoColor=3C5BFF&color:FFF)
   ![GITHUB](https://img.shields.io/badge/-GITHUB-000?&style=for-the-badge&logo=github&logoColor=3C5BFF&color:FFF)
