@@ -1,41 +1,40 @@
+<img align="right" alt="Developer vector created by user11445477 - www.freepik.com" height="320" src="https://github-production-user-asset-6210df.s3.amazonaws.com/40394772/263133943-340d9aec-1a62-4f20-a930-026cb3db7899.png">
 
-<h1 align = "center" >Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> I'm Riquelmy Oliveira! </h1>
-<div>
-
-###    About me 
+<h1 align="center">
+    <span>Riquelmy Oliveira</span>
+</h1>
 
 <ul>
-  <li class="hi">👨‍💻 I'm a guy fascinated with technology and always looking to learn new things;</li>
+  <li>👨‍💻 I'm a guy fascinated with technology and always looking to learn new things;</li>
   <li>🎓 Computer Science Student at Centro Universitário Jorge Amado, Bahia, Brazil;</li> 
   <li>📝 Currently taking the Santander Full Stack Bootcamp Angular+Java;</li>
   <li>🎨 I'm passionate about literature and arts as a whole, some of my hobbies involve games, reading, writing, and coding. </li>
 </ul>
+
+<h3>🖥️🔧 Tecnologies and Tools that I use</h3> 
+ 
+  ![GIT](https://img.shields.io/badge/-GIT-000?&style=for-the-badge&logo=git&logoColor=3C5BFF&color:FFF)
+  ![GITHUB](https://img.shields.io/badge/-GITHUB-000?&style=for-the-badge&logo=github&logoColor=3C5BFF&color:FFF)
+  ![CSS](https://img.shields.io/badge/-CSS-000?&style=for-the-badge&logo=css3&logoColor=3C5BFF&color:FFF)
+  ![HTML](https://img.shields.io/badge/-HTML-000?&style=for-the-badge&logo=html5&logoColor=3C5BFF&color:FFF)
+  ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-000?&style=for-the-badge&logo=javascript&logoColor=3C5BFF&color:FFF)
+  ![PYTHON](https://img.shields.io/badge/-python-000?&style=for-the-badge&logo=python&logoColor=3C5BFF&color:FFF)<br>
+  ![ANGULAR](https://img.shields.io/badge/-angular-000?&style=for-the-badge&logo=angular&logoColor=3C5BFF&color:FFF)
+  ![JAVA](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk&logoColor=3C5BFF&color:FFF)
+
 </div>
-
-
-## 🖥️🔧 Tecnologies and Tools that I use
-
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-
-</div><br/>
-
-## Connect with me
+<h3 align="left">🌎 Find me around the web</h3>
 <div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riquelmy-oliveira-66710722b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riquelmyor@gmail.com)
-
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=3C5BFF&color:FFF)](mailto:riquelmyor@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3C5BFF&color:FFF)](https://www.linkedin.com/in/riquelmy-oliveira-66710722b/)
+  
 </div>
 
 
-## GitHub stats
+
+<h3 align="left">GitHub Additional Info</h3>
+
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
@@ -54,3 +53,10 @@
   <br/>
 </details>
 
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - Developer vector created by <a href="https://br.freepik.com/vetores-premium/programador-de-homem-trabalhando-no-computador-com-codigo-na-ilustracao-da-tela-programador-trabalhando-escrevendo-codigo_32961566.htm#query=coding%20in%20computer%20vector&position=46&from_view=search&track=ais">user11445477 - www.freepik.com</a>
+ 
+</details>
