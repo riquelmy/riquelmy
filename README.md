@@ -27,7 +27,7 @@
 <div>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=3C5BFF&color:FFF)](mailto:riquelmyor@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3C5BFF&color:FFF)](https://www.linkedin.com/in/riquelmy-oliveira-66710722b/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=3C5BFF&color:FFF)](https://www.linkedin.com/in/riquelmy-oliveira)
   
 </div>
 
