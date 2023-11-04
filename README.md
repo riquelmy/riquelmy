@@ -7,7 +7,7 @@
 <ul>
   <li>👨‍💻 I'm a guy fascinated with technology and always looking to learn new things</li>
   <li>🎓 Computer Science Student at Centro Universitário Jorge Amado, Bahia, Brazil</li> 
-  <li>📝 Currently taking the Santander Full Stack Bootcamp Angular+Java</li>
+  <li>📝 I have taken and completed Santander Full Stack Bootcamp Angular+Java</li>
   <li>🎨 I'm passionate about literature and arts as a whole, some of my hobbies involve games, reading, writing, and coding </li>
 </ul>
 
