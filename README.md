@@ -44,14 +44,7 @@
   <br/>
 </details>
 
-<details>
-  <summary>Views on my profile 👁️</summary>
-  <br/>
-   
-  ![](https://komarev.com/ghpvc/?username=riquelmy&color=blueviolet)
-  
-  <br/>
-</details>
+
 
 <details align="left">
   <summary></summary> 
