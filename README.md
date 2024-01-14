@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by user11445477 - www.freepik.com" height="320" src="https://github-production-user-asset-6210df.s3.amazonaws.com/40394772/263133943-340d9aec-1a62-4f20-a930-026cb3db7899.png">
+<img align="right" alt="Developer vector created by user11445477 - www.freepik.com" height="320" src="https://i.imgur.com/bQVrrE3.gif">
 
 <h1 align="center">
     <span>Riquelmy Oliveira</span>
