@@ -50,6 +50,6 @@
   <summary></summary> 
  
   - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - Developer vector created by <a href="https://br.freepik.com/vetores-premium/programador-de-homem-trabalhando-no-computador-com-codigo-na-ilustracao-da-tela-programador-trabalhando-escrevendo-codigo_32961566.htm#query=coding%20in%20computer%20vector&position=46&from_view=search&track=ais">user11445477 - www.freepik.com</a>
+  - "To read is to voyage through time." (Carl Sagan)
  
 </details>
