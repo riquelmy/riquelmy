@@ -1,8 +1,10 @@
-<img align="right" alt="Developer vector created by user11445477 - www.freepik.com" height="320" src="https://i.imgur.com/bQVrrE3.gif">
 
 <h1 align="center">
     <span>Riquelmy Oliveira</span>
 </h1>
+
+<img align="right" alt="Developer vector created by user11445477 - www.freepik.com" height="320" src="https://i.imgur.com/bQVrrE3.gif">
+
 
 <ul>
   <li>👨‍💻 I'm a guy fascinated with technology and always looking to learn new things</li>
